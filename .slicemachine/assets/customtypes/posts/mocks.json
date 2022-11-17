@@ -1,0 +1,39 @@
+{
+  "id": "mock-doc-id",
+  "url": null,
+  "type": "posts",
+  "href": null,
+  "tags": [],
+  "first_publication_date": "1970-01-01T00:00:01+0000",
+  "last_publication_date": "1970-01-01T00:00:01+0000",
+  "slugs": [],
+  "linked_documents": [],
+  "lang": "en-us",
+  "alternate_languages": [],
+  "data": {
+    "title": "supply",
+    "subtitle": "column",
+    "author": "moving",
+    "banner": {
+      "dimensions": {
+        "width": 900,
+        "height": 500
+      },
+      "alt": null,
+      "copyright": null,
+      "url": "https://images.unsplash.com/photo-1537498425277-c283d32ef9db"
+    },
+    "content": [
+      {
+        "heading": "rice",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Quis aliqua non do laborum velit occaecat consequat pariatur non exercitation veniam non adipisicing incididunt. Officia Lorem ad enim incididunt magna reprehenderit dolor sunt nulla. Labore ullamco aliquip est velit ut officia ea deserunt mollit occaecat.",
+            "spans": []
+          }
+        ]
+      }
+    ]
+  }
+}
